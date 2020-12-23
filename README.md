@@ -44,10 +44,13 @@ composer require apitte/events
   <tbody>
 </table>
 
+## Sponsoring
+
+<a href="https://github.com/tlapnet">
+  <img width="80" height="80" src="https://avatars1.githubusercontent.com/u/22914186?s=80&v=4">
+</a>
+
 -----
 
-The development is sponsored by [Tlapnet](http://www.tlapnet.cz) and a lot of coffeees. Thank you guys! :+1:
-
------
-
-Thank you for testing, reporting and contributing.
+Consider to [support](https://contributte.com/partners) **contributte** development team.
+Also thank you for using this package.
