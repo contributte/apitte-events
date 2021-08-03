@@ -20,7 +20,7 @@
 
 ## Usage
 
-To install the latest version of `apitte/events` use [Composer](https://getcomposer.com).
+To install the latest version of `apitte/events` use [Composer](https://getcomposer.org).
 
 ```bash
 composer require apitte/events
