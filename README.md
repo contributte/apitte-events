@@ -1,4 +1,4 @@
-![](https://heatbadger.now.sh/github/readme/apitte/events/)
+![](https://heatbadger.now.sh/github/readme/contributte/apitte-events/?deprecated=1)
 
 <p align=center>
     <a href="https://github.com/apitte/events/actions"><img src="https://badgen.net/github/checks/apitte/events"></a>
@@ -18,28 +18,22 @@
     Website 🚀 <a href="https://contributte.org">contributte.org</a> | Contact 👨🏻‍💻 <a href="https://f3l1x.io">f3l1x.io</a> | Twitter 🐦 <a href="https://twitter.com/contributte">@contributte</a>
 </p>
 
-## Usage
+## Disclaimer
 
-To install the latest version of `apitte/events` use [Composer](https://getcomposer.org).
+| :warning: | This project is no longer being maintained. Please use [contributte/apitte](https://github.com/contributte/apitte).
+|---|---|
 
-```bash
-composer require apitte/events
-```
-## Documentation
-
-For details on how to use this package, check out our [documentation](.docs).
-
-## Versions
-
-| State       | Version      | Branch   | PHP      |
-|-------------|--------------|----------|----------|
-| development | `dev-master` | `master` | `>= 5.6` |
+| Composer | [`apitte/events`](https://packagist.org/packages/apitte/events) |
+|---| --- |
+| Version | ![](https://badgen.net/packagist/v/apitte/events) |
+| PHP | ![](https://badgen.net/packagist/php/apitte/events) |
+| License | ![](https://badgen.net/github/license/apitte/events) |
 
 ## Development
 
 See [how to contribute](https://contributte.org/contributing.html) to this package.
 
-This package is currently maintaining by these authors.
+This package was maintain by these authors.
 
 <a href="https://github.com/f3l1x">
   <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
