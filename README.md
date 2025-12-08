@@ -1,14 +1,6 @@
 ![](https://heatbadger.now.sh/github/readme/contributte/apitte-events/?deprecated=1)
 
 <p align=center>
-    <a href="https://github.com/apitte/events/actions"><img src="https://badgen.net/github/checks/apitte/events"></a>
-    <a href="https://coveralls.io/r/apitte/events"><img src="https://badgen.net/coveralls/c/github/apitte/events"></a>
-    <a href="https://packagist.org/packages/apitte/events"><img src="https://badgen.net/packagist/dm/apitte/events"></a>
-    <a href="https://packagist.org/packages/apitte/events"><img src="https://badgen.net/packagist/v/apitte/events"></a>
-</p>
-<p align=center>
-    <a href="https://packagist.org/packages/apitte/events"><img src="https://badgen.net/packagist/php/apitte/events"></a>
-    <a href="https://github.com/apitte/events"><img src="https://badgen.net/github/license/apitte/events"></a>
     <a href="https://bit.ly/ctteg"><img src="https://badgen.net/badge/support/gitter/cyan"></a>
     <a href="https://bit.ly/cttfo"><img src="https://badgen.net/badge/support/forum/yellow"></a>
     <a href="https://contributte.org/partners.html"><img src="https://badgen.net/badge/sponsor/donations/F96854"></a>
@@ -20,20 +12,18 @@
 
 ## Disclaimer
 
-| :warning: | This project is no longer being maintained. Please use [contributte/apitte](https://github.com/contributte/apitte).
+| :warning: | This project is no longer being maintained. Please use [contributte/apitte](https://github.com/contributte/apitte).|
 |---|---|
 
 | Composer | [`apitte/events`](https://packagist.org/packages/apitte/events) |
-|---| --- |
+|---|---|
 | Version | ![](https://badgen.net/packagist/v/apitte/events) |
 | PHP | ![](https://badgen.net/packagist/php/apitte/events) |
-| License | ![](https://badgen.net/github/license/apitte/events) |
+| License | ![](https://badgen.net/github/license/contributte/apitte-events) |
 
 ## Development
 
-See [how to contribute](https://contributte.org/contributing.html) to this package.
-
-This package was maintain by these authors.
+This package was maintained by these authors.
 
 <a href="https://github.com/f3l1x">
   <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
